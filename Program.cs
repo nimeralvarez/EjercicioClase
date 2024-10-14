@@ -1,5 +1,7 @@
 ﻿using EjercicioClase;
 
+// Crear objetos de tipo SuperHeroe
+
 SuperHeroe superHeroe1=new SuperHeroe();
 superHeroe1.Nombre = "Superman";
 superHeroe1.IdentidadSecreta = "Clark Kent";
